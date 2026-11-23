@@ -12,13 +12,13 @@ and a bottom half.
 I have my Dell U49 ultra-wide monitor for several years now and the one thing always
 annoyed me during my daily Linux usage was the lack if Dell Display Manager's
 window snap feature, allowing me to split the desktop into multiple section and
-automatically snow windows into them.
+automatically snow windows into them.  
 Yesterday I asked Fable 5.2 to create something for me and after being done doing so
 also mentioned that there is already such a project called [FancyTiles](https://github.com/QuantumWarp/fancytiles).
-Probably better coded and more feature, but didn't bother since LLM was done already.
-The thing works for me perfectly and does all I wanted.
-Perhaps anyone has usage for it as well. And if not, another piece of vibe-coded AI barf.
-¯\_(ツ)_/¯
+Probably better coded and more feature, but didn't bother since LLM was done already.  
+The thing works for me perfectly and does all I wanted.  
+Perhaps anyone has usage for it as well. And if not, another piece of vibe-coded AI barf.  
+¯\\_(ツ)_/¯
 
 
 ## This is vibe-coded

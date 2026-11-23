@@ -1,0 +1,1 @@
+# cinnamon-snap-zones

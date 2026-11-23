@@ -1,0 +1,27 @@
+{
+    "columns": {
+        "type": "entry",
+        "default": "1:1:1",
+        "description": "Column widths, left to right",
+        "tooltip": "Relative widths separated by colons. 1:1:1 gives three equal columns, 1:2:1 a wide centre column, 1:1 two halves."
+    },
+    "gap": {
+        "type": "spinbutton",
+        "default": 0,
+        "min": 0,
+        "max": 64,
+        "step": 1,
+        "units": "px",
+        "description": "Gap around snapped windows"
+    },
+    "split-delay": {
+        "type": "spinbutton",
+        "default": 2,
+        "min": 0,
+        "max": 10,
+        "step": 0.5,
+        "units": "s",
+        "description": "Hold time before a column splits in two",
+        "tooltip": "Keep the dragged window over the same column this long and the column divides into a top and a bottom half. Moving to another column starts the wait again. 0 turns splitting off."
+    }
+}
